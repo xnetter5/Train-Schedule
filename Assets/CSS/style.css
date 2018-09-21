@@ -1,0 +1,17 @@
+h1 {
+	text-shadow: 3px 3px rgb(18, 233, 28);
+	font-weight: bold;
+}
+
+h4,h5 {
+	text-shadow: 1px 1px rgb(13, 231, 24);
+}
+
+img {
+	border: 3px solid rgb(250, 4, 4);
+}
+
+.btn.btn-primary {
+	text-shadow: .25px .25px rgb(50, 24, 197);
+	border: 1.25px solid rgb(20, 8, 192);
+}
